@@ -26,7 +26,7 @@ and `Maaten_script.py`
 Unexpected result obtained by `script.py` using `sklearn.manifold.TSNE`
 
 ![alt text][ScriptPy]
-[ScriptPy]: https://raw.githubusercontent.com/jjvalletta/t-SNEIssue/master/ResultScriptPy.png "Result script.py"
+[ScriptPy]: https://raw.githubusercontent.com/iosonofabio/t-SNEIssue/master/ResultScriptPy.png "Result script.py"
 
 Observations for `script.py`:
 
