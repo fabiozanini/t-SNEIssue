@@ -42,6 +42,7 @@ Thanks for anyone looking into this.
    
 # Alternative minimal example using IRIS data set
 This example is used by the author of the `bhtsne` module: https://github.com/dominiek/python-bhtsne.
+![alt text][Comparison]
 [Comparison]: https://raw.githubusercontent.com/iosonofabio/t-SNEIssue/master/comparison_bhtsne_iris.png "comparison.py"
 
 Clearly, the default rate of `1000` has incorrect results, whereas the proposed new default `200` has results comparable with `bhtsne`.
